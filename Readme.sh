@@ -1,1 +1,0 @@
-echo "# gniforatos" >> README.md
